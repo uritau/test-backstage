@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Example component catalog
+  name: Example-component-catalog
   description: |
     Core is a PHP repo that whatever.
   links:
