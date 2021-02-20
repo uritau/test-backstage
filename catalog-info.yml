@@ -13,8 +13,8 @@ metadata:
       url: https://backstage.io/storybook
     - title: Discord Chat
       url: https://discord.com/invite/EBHEGzX
-   - title: whatever
-     url: https://www.notion.so/holaluz/Core-095e7210f2a34992bb2883b477903d23
+    - title: whatever
+      url: https://www.notion.so/holaluz/Core-095e7210f2a34992bb2883b477903d23
   annotations:
       rollbar.com/project-slug: Core
       github.com/project-slug: uritau/test-backstage
