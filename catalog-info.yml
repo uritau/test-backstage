@@ -17,7 +17,7 @@ metadata:
       url: https://www.notion.so/holaluz/Core-095e7210f2a34992bb2883b477903d23
       icon: AccessibleForward
   annotations:
-      rollbar.com/project-slug: Core
+      rollbar.com/project-slug: holaluz/Core
       github.com/project-slug: uritau/test-backstage
       backstage.io/techdocs-ref: url:https://www.notion.so/holaluz/Core-095e7210f2a34992bb2883b477903d23
 spec:
