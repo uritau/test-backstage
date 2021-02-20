@@ -1,9 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
+
   name: Example-component-catalog
   description: |
     Core is a PHP repo that whatever.
+  tags:
+    - php
+    - erp
   links:
     - title: Website
       url: http://google.es
